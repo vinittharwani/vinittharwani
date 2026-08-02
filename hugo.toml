@@ -2,3 +2,24 @@ baseURL = 'https://vinittharwani.github.io/'
 languageCode = 'en-us'
 title = 'Vinit Tharwani'
 theme = 'PaperMod'
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Papershelf"
+url = "/papershelf/"
+weight = 2
+
+[[menu.main]]
+name = "Bookshelf"
+url = "/bookshelf/"
+weight = 3
+
+[[menu.main]]
+name = "Writing"
+url = "/writing"
+weight = 4
+
