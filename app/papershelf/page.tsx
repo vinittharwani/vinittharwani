@@ -59,11 +59,13 @@ export default function PaperShelfPage() {
                   {paper.authors} ({paper.year})
                 </p>
                 
+                  <a
                   href={paper.href}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-gray-700 underline-offset-4 hover:text-orange-600 hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange-600"
-                >
+                  >
+                
                   [PDF]
                 </a>
               </div>
