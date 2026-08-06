@@ -14,15 +14,15 @@ type Paper = {
 
 const papers: Paper[] = [
   {
-    title: "Simulated Annealing Approaches to the HP Lattice Protein Folding Problem",
-    authors: "Doe, J., Smith, A.",
-    year: 2021,
+    title: "Attention Is All You Need",
+    authors: "Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I.",
+    year: 2017,
     href: "#",
   },
   {
-    title: "A Minimal Equivalent-Circuit Model for Excitable Membranes",
-    authors: "Lee, K., Fischer, R., Nakamura, T.",
-    year: 2019,
+    title: "What Every Programmer Should Know About Memory",
+    authors: "Ulrich Drepper",
+    year: 2007,
     href: "#",
   },
 ];
@@ -32,15 +32,10 @@ export default function PaperShelfPage() {
     <div className="space-y-10">
       <section className="space-y-4">
         <h1 className="text-2xl font-bold tracking-tight text-gray-900">
-          Paper Shelf
+          Papershelf
         </h1>
         <p className="leading-relaxed text-gray-700">
-          I read papers the way most people read the news — as a way of
-          staying oriented. Primary sources force a precision that
-          secondhand summaries erase, and reading outside my immediate
-          stack keeps the T-shape honest. This is a running shelf of
-          what&apos;s shaped my thinking recently, kept mostly unannotated
-          on purpose.
+          I like going deep into papers and implementing them.
         </p>
       </section>
 
