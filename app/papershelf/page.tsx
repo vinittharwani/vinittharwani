@@ -2,7 +2,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Paper Shelf — Vinit Tharwani",
+  title: "Papershelf — Vinit Tharwani",
 };
 
 type Paper = {
