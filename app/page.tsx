@@ -38,14 +38,7 @@ export default function Home() {
               <a href="https://github.com/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[GitHub]</a>
             </div>
           </section>
-
-          {/* Profile Picture */}
-          <section className="pt-2">
-            <div className="w-44 h-48 bg-gray-200 border border-gray-300 rounded-sm overflow-hidden flex items-center justify-center text-xs text-gray-500">
-              [ Your Profile Photo ]
-            </div>
-          </section>
-
+          
           {/* Research Focus */}
           <section className="space-y-3 pt-4">
             <h2 className="text-base font-bold text-black">Current Research Focus</h2>
