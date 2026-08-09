@@ -35,7 +35,7 @@ export default function PaperShelfPage() {
           Papershelf
         </h1>
         <p className="leading-relaxed text-gray-700">
-          I like going deep into papers and implementing them.
+          I maintain a collection of research papers that I find interesting and relevant to my work. This is a curated list of papers that I have read and found valuable in my journey as a software engineer and independent researcher.
         </p>
       </section>
 

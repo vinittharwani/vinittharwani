@@ -6,7 +6,7 @@ import Nav from "@/components/nav";
 export const metadata: Metadata = {
   title: "Vinit Tharwani",
   description:
-    "Software Engineer & Computational Systems Researcher — writing, reading, and building at the intersection of systems and biology.",
+    "Software Engineer & Independent Researcher — writing, reading, and building at the intersection of systems and artificial intelligence.",
 };
 
 export default function RootLayout({
