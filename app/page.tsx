@@ -38,7 +38,7 @@ export default function Home() {
               <a href="https://github.com/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[GitHub]</a>
             </div>
           </section>
-          
+
           {/* Research Focus */}
           <section className="space-y-3 pt-4">
             <h2 className="text-base font-bold text-black">Current Research Focus</h2>
@@ -49,14 +49,7 @@ export default function Home() {
             <p className="text-sm leading-relaxed text-gray-800">
               I believe that we can use Artificial Intelligence to solve complex problems in Biology and Neuroscience.
             </p>
-            
-            {/* Quote Box */}
-            <blockquote className="border-l-2 border-gray-300 pl-4 italic text-xs text-gray-700 my-4 py-1 space-y-2">
-              <p>"Organisms are not passive recipients of environmental pressures; they often modify their environment."</p>
-              <footer className="text-right not-italic text-gray-500 text-[11px]">— Niles Eldredge and Stephen Jay Gould</footer>
-            </blockquote>
-          </section>
-
+            </section>
         </main>
       </div>
     </div>
