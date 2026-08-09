@@ -30,9 +30,9 @@ export default function Home() {
           </p>
           <div className="text-sm space-x-2 pt-2">
             <span className="text-gray-500">Links:</span>
-            <a href="https://github.com/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">[Substack]</a>
-            <a href="https://kaggle.com/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">[Twitter]</a>
-            <a href="https://codeforces.com/profile/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">[GitHub]</a>
+            <a href="https://github.com/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">[GitHub]</a>
+            <a href="https://kaggle.com/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">[Kaggle]</a>
+            <a href="https://codeforces.com/profile/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">[Codeforces]</a>
           </div>
         </section>
 
