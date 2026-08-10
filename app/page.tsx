@@ -24,30 +24,21 @@ export default function Home() {
           {/* Header Info */}
           <section className="space-y-3">
             <h1 className="text-xl font-bold text-black">Vinit Tharwani</h1>
-            <p className="text-xs text-gray-600">(Software Developer & Independent Researcher)</p>
-            
-            <p className="text-sm leading-relaxed text-gray-800">
-              I work with Distributed systems, Deep learning, and Systems architecture, while exploring computational fields like Biology and Neuroscience.
-              I believe in cross-disciplinary learning.
-            </p>
+            <p className="text-xs text-gray-600">Software Developer</p>
 
             <div className="text-sm space-x-2 pt-1">
               <span className="text-gray-600">Links:</span>
               <a href="https://codeforces.com/profile/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[Codeforces]</a>
-              <a href="https://kaggle.com/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[Kaggle]</a>
               <a href="https://github.com/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[GitHub]</a>
+              <a href="https://kaggle.com/vinittharwani" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[Kaggle]</a>
             </div>
           </section>
 
-          {/* Research Focus */}
+          {/* Current Focus */}
           <section className="space-y-3 pt-4">
-            <h2 className="text-base font-bold text-black">Current Research Focus</h2>
+            <h2 className="text-base font-bold text-black">Current Focus</h2>
             <p className="text-sm leading-relaxed text-gray-800">
-              I'm deeply interested in <strong className="font-bold">distributed systems</strong>—building 
-              queues, consensus engines, and raw socket servers from scratch, paired with biophysics simulations.
-            </p>
-            <p className="text-sm leading-relaxed text-gray-800">
-              I believe that we can use Artificial Intelligence to solve complex problems in Biology and Neuroscience.
+              I'm deeply interested in <strong className="font-bold">Distributed Systems and Machine Learning.</strong>
             </p>
             </section>
         </main>
