@@ -12,7 +12,7 @@ export default function Home() {
           <Link href="/" className="font-semibold text-blue-600 border-b-2 border-amber-500 pb-2 -mb-2">
             Vinit Tharwani
           </Link>
-          <div className="flex space-x-6 text-gray-700">
+          <div className="flex gap-6 text-gray-700">
             <Link href="/writing" className="hover:text-black">Writing</Link>
             <Link href="/about" className="hover:text-black">About</Link>
           </div>
