@@ -6,9 +6,8 @@ import { usePathname } from "next/navigation";
 
 const TABS = [
   { href: "/", label: "Vinit Tharwani", accent: "border-blue-600" },
-  { href: "/writings", label: "Writings", accent: "border-orange-600" },
-  { href: "/bookshelf", label: "Bookshelf", accent: "border-blue-600" },
-  { href: "/papershelf", label: "Paper Shelf", accent: "border-orange-600" },
+  { href: "/writings", label: "Writings", accent: "border-blue-600" },
+  { href: "/about", label: "About", accent: "border-blue-600" },
 ] as const;
 
 export default function Nav() {
